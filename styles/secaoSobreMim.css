@@ -1,0 +1,47 @@
+.secao-sobre-mim {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+
+.titulo-secao-sobre-mim {
+    display: flex;
+    justify-content: center;
+    
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+    font-size: 40px;
+    color: var(--preto-principal);
+
+    margin-top: 40px;
+    margin-bottom: 80px;
+    text-transform: uppercase;
+}
+
+.sobre-mim {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 6rem 15rem 6rem 15rem;
+}
+
+.sobre-mim_texto {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 5rem;
+    width: 70%;
+
+    font-family: var(--fonte-principal);
+}
+
+.sobre-mim_titulo {
+    font-weight: 400;
+    font-size: 48px;
+}
+
+.sobre-mim_descricao {
+    font-weight: 300;
+    font-size: 24px;
+    text-transform: uppercase;
+}

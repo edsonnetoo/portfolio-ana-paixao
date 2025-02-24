@@ -1,0 +1,14 @@
+@import url("styles/secaoPrincipal.css");
+@import url("styles/secaoSobreMim.css");
+
+:root {
+    --preto-principal: #000000;
+    --branco-sec: #FFFFFF;
+    --cinza-tec: #BFC3C4;
+    --fonte-principal: "Work Sans", serif;
+    --fonte-secundaria: "Tinos", serif;
+}
+
+
+
+
