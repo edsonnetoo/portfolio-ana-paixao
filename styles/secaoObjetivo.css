@@ -39,3 +39,9 @@
     text-transform: uppercase;
     color: var(--branco-sec);
 }
+
+.objetivo-texto_descricao {
+    width: 80%;
+    line-height: 35px;
+    letter-spacing: 0.14em;
+}
