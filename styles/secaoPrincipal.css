@@ -23,6 +23,11 @@
     color: var(--branco-sec);
 }
 
+.lista-menu-item a {
+    text-decoration: none;
+    color: var(--branco-sec);
+}
+
 .resumo {
     padding: 350px 250px 300px 250px;
 }
