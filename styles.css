@@ -3,6 +3,7 @@
 @import url("styles/secaoObjetivo.css");
 @import url("styles/secaoServicos.css");
 @import url("styles/secaoContato.css");
+@import url("styles/rodape.css");
 
 :root {
     --preto-principal: #000000;

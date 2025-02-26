@@ -1,0 +1,13 @@
+.rodape {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.rodape-texto {
+    font-family: var(--fonte-secundaria);
+    font-weight: 400;
+    font-size: 25px;
+    text-transform: uppercase;
+}
