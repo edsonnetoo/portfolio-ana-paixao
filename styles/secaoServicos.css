@@ -1,0 +1,74 @@
+.secao-servicos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.titulo-secao-servicos {
+    display: flex;
+    justify-content: center;
+    
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+    font-size: 40px;
+    color: var(--preto-principal);
+
+    margin-top: 40px;
+    margin-bottom: 80px;
+    text-transform: uppercase;
+}
+
+.servicos {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 3rem 15rem 6rem 15rem;
+    gap: 60px;
+}
+
+.servicos-pacote {
+    background-color: var(--preto-principal);
+    color: var(--branco-sec);
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.servicos-pacote_titulo {
+    font-family: var(--fonte-secundaria);
+    font-weight: 400;
+    font-style: italic;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.servicos-pacote_lista {
+    box-sizing: border-box;
+    border: 1px solid var(--branco-sec);
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+.servicos-pacote_lista_item {
+    font-family: var(--fonte-secundaria);
+    font-weight: 400;
+    font-size: 20px;
+
+    margin-bottom: 2rem;
+    list-style: inside;
+}
+
+.servicos-pacote_preco {
+    font-family: var(--fonte-secundaria);
+    font-weight: 400;
+    font-style: italic;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+
+
+
+

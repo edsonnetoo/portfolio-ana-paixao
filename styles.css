@@ -1,6 +1,7 @@
 @import url("styles/secaoPrincipal.css");
 @import url("styles/secaoSobreMim.css");
 @import url("styles/secaoObjetivo.css");
+@import url("styles/secaoServicos.css");
 
 :root {
     --preto-principal: #000000;
